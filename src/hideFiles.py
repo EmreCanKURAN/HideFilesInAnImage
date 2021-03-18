@@ -5,7 +5,7 @@ For any questions:
 emrecankuran21@gmail.com
 Disclaimer:
 This script is created for a tutorial article that is written in terms of security and privacy.
-Malicious intents are not encouraged and the author claims that he doesn't take any responsibilities.
+Malicious intents are not encouraged and the author of this code specifies that he doesn't take any responsibilities for misuses.
 """
 
 import os
