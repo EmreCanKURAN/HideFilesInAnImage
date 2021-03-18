@@ -1,5 +1,5 @@
 # HideFilesInAnImage
-A python code using a steganographic technique that encrypts and hides files to an image.
+A python code using a steganographic technique that encrypts and hides the files inside an image.
 
 Disclaimer:
 This script is created for a tutorial article that is written in terms of security and privacy.
