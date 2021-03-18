@@ -4,8 +4,8 @@ Last Update:18.03.2021
 For any questions:
 emrecankuran21@gmail.com
 Disclaimer:
-This script is created for a tutorial article written in terms of security and privacy.
-Malicious intents are not encouraged and the author claims that he doesn't take any responsibility.
+This script is created for a tutorial article that is written in terms of security and privacy.
+Malicious intents are not encouraged and the author claims that he doesn't take any responsibilities.
 """
 
 import os
