@@ -1,6 +1,10 @@
 # HideFilesInAnImage
 A python code using a steganographic technique that encrypts and hides files to an image.
 
+Disclaimer:
+This script is created for a tutorial article that is written in terms of security and privacy.
+Malicious intents are not encouraged and the author of this code specifies that he doesn't take any responsibilities for misuses.
+
 Prerequisites:
 Cryptography library. You can install via shell using:
 pip install cryptography
